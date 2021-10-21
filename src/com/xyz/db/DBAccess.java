@@ -9,7 +9,7 @@ import com.xyz.log.Logger;
 /**
  * A custom DB Access API to help interface with the custom file-based database developed here at XYZ.
  * It uses a JDBC-like interface developed to provide freeform query exeuction using the SQL syntax.
- * For more information on the custom DB, refer to the internal wikispace:
+ * For more information on the custom DB, refer to the internal wikispace at 
  * http://custom.filedb.xyzcorp/wiki/CustomJdbc/latest
  * 
  * @author Sammy Davis Jr. (sdavisjr@xyz.crooners.com)
